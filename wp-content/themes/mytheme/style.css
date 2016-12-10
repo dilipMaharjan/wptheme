@@ -393,7 +393,7 @@ a:active {
 
 .main-navigation {
   float: right;
-  margin-top: 1em;
+  margin-top: -2em;
 }
 
 .main-navigation li {

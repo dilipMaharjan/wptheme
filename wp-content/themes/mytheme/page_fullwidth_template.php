@@ -1,9 +1,9 @@
 <?php
-/* Main Template file */
+/* Template Name: Full-width template */
 get_header();
 ?>
 <div class="main-content-width-wrapper">
-    <div class="index-entry">
+    <div class="full-width-entry">
         <h1><?php echo get_the_title(); ?></h1>
 
         <main class="main-content">
@@ -20,4 +20,3 @@ get_header();
     </div>
 </div>
 <?php get_footer(); ?>
-

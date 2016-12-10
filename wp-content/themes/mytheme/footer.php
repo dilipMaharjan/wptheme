@@ -3,7 +3,7 @@
     <nav>
         <?php
         wp_nav_menu($args = array(
-            'menu_class' => 'footer_navigation',
+            'menu_class' => 'footer-navigation',
             'theme_location' => 'footer'
         ));
         ?>
